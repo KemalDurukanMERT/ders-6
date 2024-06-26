@@ -1,0 +1,14 @@
+.box1{
+    background-color: red;
+    background-color: rgb(30, 108, 43);
+    background-color: rgba(164, 78, 78, 0.61);
+}
+
+.box2{
+    background-color: hsl(357, 89%, 27%);
+    background-color: hsla(161, 86%, 33%, 0.78)
+}
+
+.box3{
+    background-color: #44a83794;
+}
